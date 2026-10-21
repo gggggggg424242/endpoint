@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T11:40:25.016Z",
+  "generated_at": "2026-10-21T12:01:20.511Z",
   "status": "ok",
   "source": "data/endpoints_full.json.gz",
-  "scanned": 165890,
+  "scanned": 168741,
   "subset": false,
   "firstParty": [
     {
@@ -79,6 +79,25 @@
       "brand": "Exa"
     },
     {
+      "host": "api.nansen.ai",
+      "name": "Nansen AI - Trade Everything Onchain with AI",
+      "count": 41,
+      "priced": 7,
+      "priceMedian": 0.05,
+      "topCategory": "trading",
+      "networks": [
+        "Base",
+        "Solana"
+      ],
+      "sources": [
+        "pay-sh",
+        "x402scan"
+      ],
+      "sampleId": "aa58308344dc2874",
+      "url": "https://api.nansen.ai/api/v1/perp/builder-fee",
+      "brand": "Nansen"
+    },
+    {
       "host": "api.venice.ai",
       "name": "Venice API Docs",
       "count": 27,
@@ -96,25 +115,6 @@
       "sampleId": "57a8e4e651b375b3",
       "url": "https://api.venice.ai/api/v1/x402/transactions/%7BwalletAddress%7D",
       "brand": "Venice.ai"
-    },
-    {
-      "host": "api.nansen.ai",
-      "name": "Nansen AI - Trade Everything Onchain with AI",
-      "count": 21,
-      "priced": 6,
-      "priceMedian": 0.05,
-      "topCategory": "trading",
-      "networks": [
-        "Base",
-        "Solana"
-      ],
-      "sources": [
-        "pay-sh",
-        "x402scan"
-      ],
-      "sampleId": "62a902d8cb35ffc8",
-      "url": "https://api.nansen.ai/api/v1/trade/bridge-status",
-      "brand": "Nansen"
     },
     {
       "host": "pro-api.coingecko.com",
