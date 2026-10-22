@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T12:01:20.511Z",
+  "generated_at": "2026-10-22T11:56:38.313Z",
   "status": "ok",
   "source": "data/endpoints_full.json.gz",
-  "scanned": 168741,
+  "scanned": 173968,
   "subset": false,
   "firstParty": [
     {
@@ -376,9 +376,9 @@
     {
       "host": "x402.dtelecom.org",
       "name": "dTelecom x402 Gateway — WebRTC, STT & TTS API",
-      "count": 13,
+      "count": 15,
       "priced": 1,
-      "priceMedian": 0,
+      "priceMedian": 0.1,
       "topCategory": "media",
       "networks": [
         "Base",
