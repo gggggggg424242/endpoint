@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T11:49:17.662Z",
+  "generated_at": "2026-10-24T11:07:00.478Z",
   "status": "ok",
   "source": "data/endpoints_full.json.gz",
-  "scanned": 175750,
+  "scanned": 178202,
   "subset": false,
   "firstParty": [
     {
